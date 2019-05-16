@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsMLWPFSample", "Windo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A396DA9C-A3CC-4CB6-B86E-C1F48FF63285}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Pictures\mnist2.gif = ..\..\..\Pictures\mnist2.gif
+		mnist2.gif = mnist2.gif
 		README.md = README.md
 	EndProjectSection
 EndProject
